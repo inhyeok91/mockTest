@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="demo.service.MemberServiceMockTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-12-07T08:50:04" hostname="DESKTOP-7C8SB4B" time="0.441">
+  <properties/>
+  <testcase name="mockito 레파지토리 테스트" classname="demo.service.MemberServiceMockTest" time="0.438"/>
+  <testcase name="mockito 서비스 테스트" classname="demo.service.MemberServiceMockTest" time="0.002"/>
+  <system-out><![CDATA[findMembers = [Member(id=null, name=테스트유저, age=20)]
+memberAll = [Member(id=null, name=mock유저1, age=20)]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

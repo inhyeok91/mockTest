@@ -1,0 +1,2 @@
+?findMembers = [Member(id=null, name=테스트유저, age=20)]
+9memberAll = [Member(id=null, name=mock유저1, age=20)]
